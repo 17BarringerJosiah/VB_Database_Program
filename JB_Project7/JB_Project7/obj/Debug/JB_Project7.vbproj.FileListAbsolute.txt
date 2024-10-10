@@ -1,0 +1,12 @@
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\bin\Debug\JB_Project7.exe.config
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\bin\Debug\JB_Project7.exe
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\bin\Debug\JB_Project7.pdb
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\bin\Debug\JB_Project7.xml
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.vbproj.AssemblyReference.cache
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.Form1.resources
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.Resources.resources
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.vbproj.GenerateResource.cache
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.vbproj.CoreCompileInputs.cache
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.exe
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.xml
+C:\Users\josia\source\repos\JB_Project7\JB_Project7\obj\Debug\JB_Project7.pdb
